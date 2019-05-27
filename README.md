@@ -49,6 +49,9 @@ cd android && ./gradlew.bat installGvrDebug
 npm start  
 再用ngrok http 8080 把網址丟到[Viromedia](https://play.google.com/store/apps/details?id=com.viromedia.viromedia&hl=zh_TW)  
 
+# 無法用Android Emulator
+官方說明  
+Viro currently does not support development with the Android Emulator. You will need to develop with your device to use the Viro platform, at this time.  
 ## 實用issue
 https://github.com/viromedia/viro/issues/593
 https://github.com/viromedia/viro/issues/177
